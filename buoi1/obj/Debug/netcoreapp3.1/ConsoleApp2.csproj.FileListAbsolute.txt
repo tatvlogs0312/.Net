@@ -1,0 +1,14 @@
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\DaiHocDienLuc\ki_4\C#\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache

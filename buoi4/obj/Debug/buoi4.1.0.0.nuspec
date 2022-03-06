@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>buoi4</id>
+    <version>1.0.0</version>
+    <authors>buoi4</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\DaiHocDienLuc\ki_4\C#\buoi4\bin\Debug\netcoreapp3.1\buoi4.runtimeconfig.json" target="lib\netcoreapp3.1\buoi4.runtimeconfig.json" />
+    <file src="D:\DaiHocDienLuc\ki_4\C#\buoi4\bin\Debug\netcoreapp3.1\buoi4.dll" target="lib\netcoreapp3.1\buoi4.dll" />
+  </files>
+</package>

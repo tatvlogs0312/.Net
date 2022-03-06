@@ -1,0 +1,14 @@
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+E:\Giang Day\2021-2022\Lập trình .NET\D15CNPM2\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\FirstProject\obj\Debug\FirstProject.pdb

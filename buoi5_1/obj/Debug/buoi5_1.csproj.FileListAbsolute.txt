@@ -1,0 +1,7 @@
+D:\DaiHocDienLuc\ki_4\C#\code\buoi5_1\obj\Debug\buoi5_1.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\buoi5_1\obj\Debug\buoi5_1.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\buoi5_1\bin\Debug\buoi5_1.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\buoi5_1\bin\Debug\buoi5_1.exe
+D:\DaiHocDienLuc\ki_4\C#\code\buoi5_1\bin\Debug\buoi5_1.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\buoi5_1\obj\Debug\buoi5_1.exe
+D:\DaiHocDienLuc\ki_4\C#\code\buoi5_1\obj\Debug\buoi5_1.pdb

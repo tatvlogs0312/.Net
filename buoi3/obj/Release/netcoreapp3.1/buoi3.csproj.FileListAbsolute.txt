@@ -1,0 +1,4 @@
+D:\DaiHocDienLuc\ki_4\C#\buoi3\obj\Release\netcoreapp3.1\buoi3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaiHocDienLuc\ki_4\C#\buoi3\obj\Release\netcoreapp3.1\buoi3.AssemblyInfoInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\buoi3\obj\Release\netcoreapp3.1\buoi3.AssemblyInfo.cs
+D:\DaiHocDienLuc\ki_4\C#\buoi3\obj\Release\netcoreapp3.1\buoi3.csproj.CoreCompileInputs.cache
