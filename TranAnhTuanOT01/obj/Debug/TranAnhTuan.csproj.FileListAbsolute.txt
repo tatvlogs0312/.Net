@@ -1,0 +1,7 @@
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan\obj\Debug\TranAnhTuan.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan\bin\Debug\TranAnhTuan.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan\bin\Debug\TranAnhTuan.exe
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan\bin\Debug\TranAnhTuan.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan\obj\Debug\TranAnhTuan.exe
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan\obj\Debug\TranAnhTuan.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan\obj\Debug\TranAnhTuan.csproj.AssemblyReference.cache

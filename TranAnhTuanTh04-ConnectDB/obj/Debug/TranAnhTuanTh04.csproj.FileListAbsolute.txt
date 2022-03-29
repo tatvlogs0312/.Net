@@ -1,0 +1,15 @@
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\bin\Debug\TranAnhTuanTh04.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\bin\Debug\TranAnhTuanTh04.exe
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\bin\Debug\TranAnhTuanTh04.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.Properties.Resources.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.frmDSCD.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.csproj.GenerateResource.cache
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.exe
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.Solution.bai2.frmSua.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.Solution.bai3.frmSuaCMND.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.Solution.bai4.frmXoa.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.Solution.bai5.Form5.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTh04\obj\Debug\TranAnhTuanTh04.Solution.bai6.Form6.resources

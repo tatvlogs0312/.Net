@@ -1,0 +1,14 @@
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\bin\Debug\netcoreapp3.1\BTbuoi1.exe
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\bin\Debug\netcoreapp3.1\BTbuoi1.deps.json
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\bin\Debug\netcoreapp3.1\BTbuoi1.runtimeconfig.json
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\bin\Debug\netcoreapp3.1\BTbuoi1.runtimeconfig.dev.json
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\bin\Debug\netcoreapp3.1\BTbuoi1.dll
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\bin\Debug\netcoreapp3.1\BTbuoi1.pdb
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\obj\Debug\netcoreapp3.1\BTbuoi1.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\obj\Debug\netcoreapp3.1\BTbuoi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\obj\Debug\netcoreapp3.1\BTbuoi1.AssemblyInfoInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\obj\Debug\netcoreapp3.1\BTbuoi1.AssemblyInfo.cs
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\obj\Debug\netcoreapp3.1\BTbuoi1.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\obj\Debug\netcoreapp3.1\BTbuoi1.dll
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\obj\Debug\netcoreapp3.1\BTbuoi1.pdb
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi1\obj\Debug\netcoreapp3.1\BTbuoi1.genruntimeconfig.cache

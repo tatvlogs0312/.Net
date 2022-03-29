@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BTbuoi2/1.0.0": {
+        "runtime": {
+          "BTbuoi2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTbuoi2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

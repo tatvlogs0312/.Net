@@ -1,0 +1,14 @@
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\bin\Debug\TranAnhTuanTH03.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\bin\Debug\TranAnhTuanTH03.exe
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\bin\Debug\TranAnhTuanTH03.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\obj\Debug\TranAnhTuanTH03.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\obj\Debug\TranAnhTuanTH03.Properties.Resources.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\obj\Debug\TranAnhTuanTH03.csproj.GenerateResource.cache
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\obj\Debug\TranAnhTuanTH03.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\obj\Debug\TranAnhTuanTH03.exe
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\obj\Debug\TranAnhTuanTH03.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\obj\Debug\TranAnhTuanTH03.bai1.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\obj\Debug\TranAnhTuanTH03.bai2.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\obj\Debug\TranAnhTuanTH03.Solution.bai3.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\obj\Debug\TranAnhTuanTH03.Solution.bai4.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuanTH03\obj\Debug\TranAnhTuanTH03.Solution.bai5.resources

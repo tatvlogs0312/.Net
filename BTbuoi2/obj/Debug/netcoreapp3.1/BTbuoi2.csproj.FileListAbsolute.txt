@@ -1,0 +1,14 @@
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\bin\Debug\netcoreapp3.1\BTbuoi2.exe
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\bin\Debug\netcoreapp3.1\BTbuoi2.deps.json
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\bin\Debug\netcoreapp3.1\BTbuoi2.runtimeconfig.json
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\bin\Debug\netcoreapp3.1\BTbuoi2.runtimeconfig.dev.json
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\bin\Debug\netcoreapp3.1\BTbuoi2.dll
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\bin\Debug\netcoreapp3.1\BTbuoi2.pdb
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\obj\Debug\netcoreapp3.1\BTbuoi2.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\obj\Debug\netcoreapp3.1\BTbuoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\obj\Debug\netcoreapp3.1\BTbuoi2.AssemblyInfoInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\obj\Debug\netcoreapp3.1\BTbuoi2.AssemblyInfo.cs
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\obj\Debug\netcoreapp3.1\BTbuoi2.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\obj\Debug\netcoreapp3.1\BTbuoi2.dll
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\obj\Debug\netcoreapp3.1\BTbuoi2.pdb
+D:\DaiHocDienLuc\ki_4\C#\BTbuoi2\obj\Debug\netcoreapp3.1\BTbuoi2.genruntimeconfig.cache
