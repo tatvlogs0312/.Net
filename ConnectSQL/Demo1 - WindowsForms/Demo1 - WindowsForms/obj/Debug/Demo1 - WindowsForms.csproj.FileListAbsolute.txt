@@ -1,0 +1,22 @@
+D:\lap trinh C#\Demo1 - WindowsForms\Demo1 - WindowsForms\bin\Debug\Demo1 - WindowsForms.exe.config
+D:\lap trinh C#\Demo1 - WindowsForms\Demo1 - WindowsForms\bin\Debug\Demo1 - WindowsForms.exe
+D:\lap trinh C#\Demo1 - WindowsForms\Demo1 - WindowsForms\bin\Debug\Demo1 - WindowsForms.pdb
+D:\lap trinh C#\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1 - WindowsForms.csprojAssemblyReference.cache
+D:\lap trinh C#\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1___WindowsForms.Properties.Resources.resources
+D:\lap trinh C#\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1 - WindowsForms.csproj.GenerateResource.cache
+D:\lap trinh C#\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1 - WindowsForms.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1 - WindowsForms.exe
+D:\lap trinh C#\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1 - WindowsForms.pdb
+D:\lap trinh C#\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1___WindowsForms.frmDangNhap.resources
+D:\lap trinh C#\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1___WindowsForms.frmMain.resources
+C:\Users\Tran Anh Tuan\Downloads\Demo1 - WindowsForms\Demo1 - WindowsForms\Demo1 - WindowsForms\bin\Debug\Demo1 - WindowsForms.exe.config
+C:\Users\Tran Anh Tuan\Downloads\Demo1 - WindowsForms\Demo1 - WindowsForms\Demo1 - WindowsForms\bin\Debug\Demo1 - WindowsForms.exe
+C:\Users\Tran Anh Tuan\Downloads\Demo1 - WindowsForms\Demo1 - WindowsForms\Demo1 - WindowsForms\bin\Debug\Demo1 - WindowsForms.pdb
+C:\Users\Tran Anh Tuan\Downloads\Demo1 - WindowsForms\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1 - WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Tran Anh Tuan\Downloads\Demo1 - WindowsForms\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1___WindowsForms.frmMain.resources
+C:\Users\Tran Anh Tuan\Downloads\Demo1 - WindowsForms\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1___WindowsForms.frmDangNhap.resources
+C:\Users\Tran Anh Tuan\Downloads\Demo1 - WindowsForms\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1___WindowsForms.Properties.Resources.resources
+C:\Users\Tran Anh Tuan\Downloads\Demo1 - WindowsForms\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1 - WindowsForms.csproj.GenerateResource.cache
+C:\Users\Tran Anh Tuan\Downloads\Demo1 - WindowsForms\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1 - WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Tran Anh Tuan\Downloads\Demo1 - WindowsForms\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1 - WindowsForms.exe
+C:\Users\Tran Anh Tuan\Downloads\Demo1 - WindowsForms\Demo1 - WindowsForms\Demo1 - WindowsForms\obj\Debug\Demo1 - WindowsForms.pdb

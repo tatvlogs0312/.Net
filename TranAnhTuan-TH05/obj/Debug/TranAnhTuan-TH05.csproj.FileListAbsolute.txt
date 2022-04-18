@@ -1,0 +1,17 @@
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\bin\Debug\TranAnhTuan-TH05.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\bin\Debug\TranAnhTuan-TH05.exe
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\bin\Debug\TranAnhTuan-TH05.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan-TH05.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan_TH05.Form1.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan_TH05.Properties.Resources.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan-TH05.csproj.GenerateResource.cache
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan-TH05.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan-TH05.exe
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan-TH05.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan_TH05.Solution.Bai2.Form2.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan_TH05.Solution.Bai3.Form3.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan_TH05.Solution.Bai4.Form4.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan_TH05.Solution.Bai5.Form5.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan_TH05.Solution.Bai6.Form6.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan_TH05.Solution.Bai7.Form7.resources
+D:\DaiHocDienLuc\ki_4\C#\code\TranAnhTuan-TH05\obj\Debug\TranAnhTuan_TH05.Solution.Bai8.TheSim.resources

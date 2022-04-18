@@ -1,0 +1,10 @@
+D:\DaiHocDienLuc\ki_4\C#\code\Demo\bin\Debug\Demo.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\Demo\bin\Debug\Demo.exe
+D:\DaiHocDienLuc\ki_4\C#\code\Demo\bin\Debug\Demo.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\Demo\obj\Debug\Demo.frmDemo.resources
+D:\DaiHocDienLuc\ki_4\C#\code\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\DaiHocDienLuc\ki_4\C#\code\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\DaiHocDienLuc\ki_4\C#\code\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\Demo\obj\Debug\Demo.exe
+D:\DaiHocDienLuc\ki_4\C#\code\Demo\obj\Debug\Demo.pdb

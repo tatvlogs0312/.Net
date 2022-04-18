@@ -1,0 +1,10 @@
+D:\DaiHocDienLuc\ki_4\C#\code\thi\bin\Debug\thi.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\thi\bin\Debug\thi.exe
+D:\DaiHocDienLuc\ki_4\C#\code\thi\bin\Debug\thi.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\thi\obj\Debug\thi.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\thi\obj\Debug\thi.Properties.Resources.resources
+D:\DaiHocDienLuc\ki_4\C#\code\thi\obj\Debug\thi.csproj.GenerateResource.cache
+D:\DaiHocDienLuc\ki_4\C#\code\thi\obj\Debug\thi.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\thi\obj\Debug\thi.exe
+D:\DaiHocDienLuc\ki_4\C#\code\thi\obj\Debug\thi.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\thi\obj\Debug\thi.Form1.resources

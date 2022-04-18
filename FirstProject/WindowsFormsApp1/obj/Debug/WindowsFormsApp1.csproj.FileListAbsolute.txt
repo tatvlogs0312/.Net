@@ -1,0 +1,10 @@
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\FirstProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
